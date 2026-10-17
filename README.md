@@ -14,3 +14,4 @@ Python
 
 ## How to Run
 python password_checker.py
+add project instructions to README.
